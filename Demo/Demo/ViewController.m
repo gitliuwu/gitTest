@@ -19,6 +19,7 @@
     // Do any additional setup after loading the view, typically from a nib.
     //[[NSBundle mainBundle] pathForResource:<#(nullable NSString *)#> ofType:<#(nullable NSString *)#>]
     NSLog(@"hello");
+    NSLog(@"er");
 }
 
 
